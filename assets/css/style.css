@@ -1,0 +1,20 @@
+/* CSS for Giphy app */
+
+body {
+    background-image: url("../images/background.jpg");
+}
+
+
+.searchImage {
+    /* float: left; */
+}
+.searchButton{
+    background-color: rgb(35, 223, 60);
+    color: #fff;
+    font-size: 20px;
+    margin: 5px;
+}
+
+/* #tvShows {
+    float: left;
+} */
